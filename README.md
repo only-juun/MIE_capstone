@@ -25,7 +25,7 @@
 |팀장|20164300**|한*국||
 |팀원|20164300**|남*준|<a href = "https://github.com/only-juun">only-juun</a>|
 |팀원|20164300**|변*훈||
-|팀원|20164300**|이*준||
+|팀원|20164300**|이*준|<a href = "https://github.com/Bevst">Bevst</a>|
 
 ## 최종보고서
 https://capstone.uos.ac.kr/mie/index.php/7%EC%A1%B0-7%EC%A1%B0
